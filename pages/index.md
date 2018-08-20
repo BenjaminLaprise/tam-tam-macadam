@@ -3,7 +3,10 @@ layout: home
 title: Nouveau site et nouvelle formule!
 permalink: /
 section: home
-intro_paragraph: Une édition sous le signe de la gratuité
+intro_paragraph: |-
+  Une édition sous le signe de la gratuité
+
+  ![null](/assets/img/uploads/tamtambanner.jpg)
 ---
 La programmation du festival est lancé:
 
