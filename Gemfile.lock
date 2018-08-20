@@ -101,7 +101,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  alembic-jekyll-theme (~> 3.0.3)
+  alembic-jekyll-theme
   jekyll (~> 3.8)
   tzinfo-data
 

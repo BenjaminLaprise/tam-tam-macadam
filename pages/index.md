@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Nouveau site et nouvelle formule!
 permalink: /
 section: home
 intro_paragraph: >
