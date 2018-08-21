@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Monde et Macadam
 permalink: /about
 section: about
 intro_paragraph: >-
