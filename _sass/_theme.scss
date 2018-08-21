@@ -45,6 +45,7 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
+  height: fit-content;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
@@ -107,6 +108,7 @@ body {
   @include justify-content(space-between);
   color: $captionColour;
   text-align: center;
+  background-image: url("/assets/ttm_background.jpg");
 }
 
 .pagination {
@@ -131,6 +133,7 @@ body {
 .feature,
 .footer {
   @include flex(0, 0, auto);
+  background-image: url("/assets/ttm_background.jpg");
 }
 
 .content {

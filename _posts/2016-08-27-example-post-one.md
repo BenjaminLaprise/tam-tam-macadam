@@ -1,6 +1,7 @@
 ---
 title: Description of an Alembic
 category: General
+image-slider: "/assets/ttm_banner.jpg"
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
