@@ -108,6 +108,14 @@ main {
   display: grid;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  ul {
+    margin-left:25px;
+    margin-bottom: 1rem;
+    li {
+      list-style-type: circle;
+      margin-bottom: 1rem;
+    }
+  }
   @media screen and (min-width: $screen-md-min) {
     align-content: start;
   }
