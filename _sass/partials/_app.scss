@@ -27,7 +27,7 @@ body > * {
 header {
   grid-column: full;
   display: grid;
-  background-image: url('../../assets/img/uploads/ttm_background.jpg');
+  background-image: url('../../assets/img/ttm_background.jpg');
   padding: 2rem;
   @media screen and (min-width: $screen-sm-min) {
     grid-template-columns: 1fr auto;
