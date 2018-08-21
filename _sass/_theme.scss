@@ -46,8 +46,9 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   height: fit-content;
-  background: $featureBackgroundColour;
-  background-size: cover;
+  background-image: url("/assets/ttm_banner.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   .container {
     min-height: 35vh;
@@ -127,6 +128,9 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
+  title {
+    text-align: center;
+  }
 }
 
 .header,
@@ -134,11 +138,12 @@ body {
 .footer {
   @include flex(0, 0, auto);
   background-image: url("/assets/ttm_background.jpg");
+  margin-bottom: 1rem;
 }
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 90%;
   }
 }
 
