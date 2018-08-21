@@ -1,18 +1,44 @@
 ---
 layout: page
-title: About
+title: Monde et Macadam
 permalink: /about
 section: about
-intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+intro_paragraph: >-
+  Monde et Macadam est un organisme sans but lucratif qui a été fondé grâce à
+  l’initiative de la communauté, afin de dynamiser l’environnement social et
+  culturel sur le territoire régional par la production, la gestion et la
+  diffusion d’événements culturels rassembleurs.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Le conseil d’administration est composé de 7 personnes toutes issues de la communauté et ayant un intérêt particulier pour la mobilisation citoyenne et la culture. Voici sa composition :
 
-### A heading
+* Alexis Bégin, Président
+* Jonathan Bouchard, Trésorier
+* Guillaume Bégin, Secrétaire
+* Marie-Joëlle Turcotte
+* Vanessa Boily
+* Sabrina Gauvreau (représentante du CSI)
+* Mariana Grekoff (représentante de Portes Ouvertes sur le Lac)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Monde et Macadam travaillera à produire le Festival Tam Tam Macadam sur une base annuelle.
 
-#### Another heading
+Sur le comité organisateur du Festival Tam Tam Macadam on retrouve:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Katy Lalancette
+* Alexis Bégin
+* Jonathan Bouchard
+* Guillaume Bégin
+* Rémy Laprise
+* Bianka Robitaille 
+* Martine Boivin 
+* Vanessa Boily
+* Jean-Cristophe Collard
+* Marie-Joëlle Turcotte
+* Mariana Grekoff
+
+## Soutenir Monde et Macadam en devenant membre annuel …
+
+Devenir membre de l’organisme Monde et Macadam vous permet d’obtenir un rabais lors de la prochaine édition du Tam Tam Macadam, en plus d’appuyer et de soutenir l’organisation dans sa mission. De plus, votre adhésion vous donne l’avantage de participer activement aux décisions de l’organisme lors des assemblée générales et vous donne l’occasion de vous y impliquer activement.
+
+
+
+Le coût annuel est de 20$ et le renouvellement se fera en début de chaque année. Pour information, veuillez communiquer avec nous par courriel!
