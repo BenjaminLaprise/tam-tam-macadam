@@ -37,13 +37,15 @@ header {
 
 // logo, is a grid item
 header > h1 {
-  display: inline-block;
+  display: table;
   padding-bottom: 1rem;
   @media screen and (min-width: $screen-sm-min) {
     padding-bottom: 0;
   }
   a,
   a:visited {
+    display: table-cell;
+    vertical-align: middle;
     text-decoration: none;
     border: 0;
     color: white;
@@ -53,6 +55,13 @@ header > h1 {
   }
   a:hover {
     color: white;
+  }
+  span {
+    display: table-cell;
+    width: 75px;
+    img {
+      display: inline-block;
+    }
   }
 }
 
