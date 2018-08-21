@@ -46,7 +46,6 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   height: fit-content;
-  background-image: url("/assets/ttm_banner.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -72,6 +71,11 @@ body {
 .nav {
   a {
     padding: .2rem;
+    color: $navLinkColour;
+    &:hover, &:active, &:focus {
+      color: $navLinkColour;
+      text-decoration: underline;
+    }
   }
   &--social a {
     display: inline-block;
@@ -134,7 +138,6 @@ body {
 }
 
 .header,
-.feature,
 .footer {
   @include flex(0, 0, auto);
   background-image: url("/assets/ttm_background.jpg");
@@ -431,11 +434,15 @@ pre code {
   hr {
     width: 100%;
   }
+  ul {
+    margin-left: 2rem;
+  }
   li {
     > p {
       padding: 0;
       margin: 0;
     }
+    margin-bottom: 1rem;
   }
   .nav a {
     padding-left: 0;
