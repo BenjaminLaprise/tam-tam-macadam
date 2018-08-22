@@ -135,6 +135,16 @@ body {
   title {
     text-align: center;
   }
+  table {
+    margin-bottom: 1rem;
+    width: 100%;
+    td {
+      min-width: 70px;
+      border: 1px solid #aaaaaa;
+      padding: 2px;
+      padding-bottom: 5px;
+    }
+  }
 }
 
 .header,
