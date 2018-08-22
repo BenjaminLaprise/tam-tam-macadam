@@ -55,10 +55,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/ttm_banner.jpg"
 
 # 6. Jekyll collections settings
 defaults:
