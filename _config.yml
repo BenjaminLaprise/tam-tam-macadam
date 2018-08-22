@@ -66,19 +66,19 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/ttm_logo.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Tam Tam Macadam" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/ttm_logo.png" # Site logo, also used in jekyll-seo-tag
 description: ""
 url: "https://www.tam-tam-macadam.netlify.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/BenjaminLaprise/tam-tam-macadam"
 email: "benjamin.laprise@yahoo.ca.com"
-avatarurl: "/assets/logo.svg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "/assets/ttm_logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
@@ -92,11 +92,7 @@ navigation_footer:
   Created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  GitHub: https://github.com/BenjaminLaprise
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
