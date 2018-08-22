@@ -1,5 +1,5 @@
 ---
-title: Nouveau site et nouvelle formule!
+title: Nouvel emplacement et nouvelle formule!
 feature_image: "./assets/ttm_banner.jpg"
 ---
 *Une édition sous le signe de la gratuité*
