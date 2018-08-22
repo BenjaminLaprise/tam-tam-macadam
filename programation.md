@@ -1,6 +1,6 @@
 ---
 title: Programation
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "La programation du festival"
 ---
 ### JEUDI 23 AOÛT
 
