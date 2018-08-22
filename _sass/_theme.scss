@@ -140,7 +140,7 @@ body {
     width: 100%;
     td {
       min-width: 70px;
-      border: 1px solid #aaaaaa;
+      border: 1px dashed $headingColour;
       padding: 2px;
       padding-bottom: 5px;
     }
