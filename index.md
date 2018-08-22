@@ -1,9 +1,8 @@
 ---
 title: Nouveau site et nouvelle formule!
 feature_image: "./assets/ttm_banner.jpg"
-intro_paragraph: |-
-  Une édition sous le signe de la gratuité
 ---
+*Une édition sous le signe de la gratuité*
 ### La programmation du festival est lancé:
 
 * Alma le 19 juin 2018, Le festival Tam Tam Macadam lance sa programmation de spectacles qui seront présentés sur la grande scène de la rue Collard (à la Place Cogeco) au Centre-ville d’Alma du 23 au 26 août. Grande nouveauté cette année : Toutes les activités proposées sur le site du festival seront offertes gratuitement!
