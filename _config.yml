@@ -92,10 +92,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Acceuil: /
   Programation: /programation/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  Menteries: /menteries/
 
 navigation_footer:
   Created by David Darnes: https://darn.es
