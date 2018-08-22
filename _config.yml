@@ -81,7 +81,7 @@ email: "benjamin.laprise@yahoo.ca.com"
 avatarurl: "/assets/ttm_logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 facebook_app_id: 296061467868925
-facebook_default_image: ../assets/ttm_banner.jpg
+facebook_default_image: https://external.fymy1-1.fna.fbcdn.net/safe_image.php?d=AQDFyZ930u6i0-e8&w=540&h=282&url=http%3A%2F%2Fwww.tam-tam-macadam.com%2Fmedia%2Fsystem%2Fsites%2Flogos%2F1500487218_tamtammacadam_share.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCYgsDJIumObEwW
 
 # 8. Site navigation
 navigation_header:
