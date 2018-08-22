@@ -80,6 +80,8 @@ repo: "https://github.com/BenjaminLaprise/tam-tam-macadam"
 email: "benjamin.laprise@yahoo.ca.com"
 avatarurl: "/assets/ttm_logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+facebook_app_id: 296061467868925
+facebook_default_image: ../assets/ttm_banner.jpg
 
 # 8. Site navigation
 navigation_header:
