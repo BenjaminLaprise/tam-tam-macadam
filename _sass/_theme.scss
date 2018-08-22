@@ -184,12 +184,13 @@ body {
   @include breakpoint(break-1) {
     max-width: 34%;
     margin-left: 4%;
+    margin-top: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
+    opacity: 0.8;
     transition: opacity .1s;
     .section {
       position: sticky;
-      top: 0;
+      top: 2%;
     }
     &--left {
       margin-left: 0;
@@ -204,8 +205,13 @@ body {
 
 .section {
   margin: 0;
+  text-align: center;
 }
 
+.fb-page {
+  opacity: 1;
+  width: 300px !important;
+}
 
 // Lists
 .list {
