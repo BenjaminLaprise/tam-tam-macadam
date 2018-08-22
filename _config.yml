@@ -83,7 +83,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Acceuil: /
+  Accueil: /
   Programation: /programation/
   Menteries: /menteries/
   Monde et Macadam: /monde_et_macadam/
