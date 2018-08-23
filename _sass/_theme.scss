@@ -171,6 +171,9 @@ body {
   width: 100% !important;
   height: 500px !important;
   overflow: hidden;
+  @media screen and (max-width: $break-small) {
+    padding-top: 100%;
+  }
   iframe {
     position: absolute;
     top: 0;
