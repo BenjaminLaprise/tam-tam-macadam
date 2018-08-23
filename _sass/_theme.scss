@@ -39,8 +39,8 @@ body {
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
-  font-size: 200%;
-  line-height: 150%;
+  font-size: 1.5em;
+  line-height: 1.5em;
   @include breakpoint(break-1) {
     font-size: 100%;
     line-height: 100%;
