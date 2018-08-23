@@ -133,6 +133,10 @@ body {
   @include justify-content(flex-start);
   margin-bottom: 1.6rem;
   margin-top: 1rem;
+  @media screen and (max-width: $break-small) {
+    display: flex;
+    flex-wrap: wrap;
+  }
   @include breakpoint(break-1) {
     @include justify-content(center);
     @include flex-direction(row);
