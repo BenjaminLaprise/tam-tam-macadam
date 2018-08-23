@@ -132,6 +132,7 @@ body {
   @include flex(1, 0, auto);
   @include justify-content(flex-start);
   margin-bottom: 1.6rem;
+  margin-top: 1rem;
   @include breakpoint(break-1) {
     @include justify-content(center);
     @include flex-direction(row);
@@ -155,7 +156,6 @@ body {
 .footer {
   @include flex(0, 0, auto);
   background-image: url("/assets/ttm_background.jpg");
-  margin-bottom: 1rem;
 }
 
 .content {
