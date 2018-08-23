@@ -39,9 +39,11 @@ body {
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
-  @media screen and (max-width: $break-small) {
-    font-size: 200%;
-    line-height: 150%;
+  font-size: 200%;
+  line-height: 150%;
+  @include breakpoint(break-1) {
+    font-size: 100%;
+    line-height: 100%;
   }
 }
 
