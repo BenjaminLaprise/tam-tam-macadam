@@ -134,7 +134,6 @@ body {
   margin-bottom: 1.6rem;
   margin-top: 1rem;
   @media screen and (max-width: $break-small) {
-    display: flex;
     flex-wrap: wrap;
   }
   @include breakpoint(break-1) {
@@ -189,9 +188,12 @@ body {
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 34%;
+    max-width: 300px;
     margin-left: 4%;
     margin-top: 4%;
+    @media screen and (max-width: $break-small) {
+      margin-left: 0;
+    }
     @include flex(1, 0, auto);
     opacity: 0.8;
     transition: opacity .1s;
