@@ -166,13 +166,10 @@ body {
 
 .mapouter {
   position: relative;
-  padding-top: 10%;
   width: 100% !important;
-  height: 500px !important;
   overflow: hidden;
-  @media screen and (max-width: $break-small) {
-    padding-top: 500px;
-  }
+  padding-top: 250px;
+  padding-bottom: 250px;
   iframe {
     position: absolute;
     top: 0;
