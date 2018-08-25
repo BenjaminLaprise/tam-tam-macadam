@@ -1,6 +1,6 @@
 ---
-title: Programation
-excerpt: "La programation du festival"
+title: Programmation
+excerpt: "La programmation du festival"
 ---
 ### JEUDI 23 AOÛT
 
