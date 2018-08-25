@@ -138,9 +138,11 @@ body {
   table {
     margin-bottom: 1rem;
     width: 100%;
+    tr:nth-child(even) {
+      background-color: #cececea8;
+    }
     td {
       min-width: 70px;
-      border: 1px dashed $headingColour;
       padding: 2px;
       padding-bottom: 5px;
     }
