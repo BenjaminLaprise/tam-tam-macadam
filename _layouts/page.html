@@ -11,12 +11,12 @@ layout: default
     <h1 class="main title">{{ page.title }}</h1>
 
     {% include site-feature.html %}
+    {% include head_facebook_open_graph.html %}
 
     {{ content }}
 
   </article>
   {% include facebook-feed.html %}
-
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
 </main>
